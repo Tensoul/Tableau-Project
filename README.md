@@ -1,6 +1,8 @@
 # Tableau-Project
 # Tableau Dashboard: Customer Analysis
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Project Description
 This Tableau project was created as part of my learning journey in data analysis and visualization. It includes:
 - Revenue analysis by month, region, and age group.
