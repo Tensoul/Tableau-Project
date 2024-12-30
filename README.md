@@ -45,7 +45,7 @@ Projekt został stworzony w celu ćwiczenia umiejętności Tableau i analizy dan
 ## Zawartość Dashboardu
 Dashboard zawiera następujące wizualizacje:
 - **Przychody w podziale na miesiące**: Wskazuje na sezonowe zmiany przychodów.
-- **Mapa przychodów per stan**: Analiza geograficzna sprzedaży.
+- **Mapa przychodów na stan USA**: Analiza geograficzna sprzedaży.
 - **Przychody w podziale na grupy wiekowe klientów**: Pozwala zrozumieć, które grupy wiekowe generują największe przychody.
 - **Korelacja ilości zamówień i rabatów**: Analiza wpływu rabatów na liczbę zamówień.
 - **Przychody według kategorii i płci**: Analiza sprzedaży według kategorii produktowych i płci klientów.
@@ -59,4 +59,4 @@ Dashboard zawiera następujące wizualizacje:
 2. Otwórz go za pomocą Tableau Desktop lub Tableau Public.
 
 ## Autor
-Stworzony przez [Twoje Imię] w celach edukacyjnych. Skontaktuj się ze mną w celu przekazania opinii lub współpracy.
+Stworzony przez mnie w celach edukacyjnych. Skontaktuj się ze mną w celu przekazania opinii lub współpracy.
